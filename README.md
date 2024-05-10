@@ -14,7 +14,7 @@ This [directory](https://github.com/SimoneZasso/Loneliness-PISA2022/tree/main/An
 
 **Description:**
 
-This [directory](https://github.com/SimoneZasso/Loneliness-PISA2022/tree/main/Function_R) houses R scripts and functions utilized for specific functionalities within the project. It encompasses modularized functions for tasks such as data manipulation, model fitting, and result interpretation. These functions contribute to the overall workflow and efficiency of the project's analysis pipeline.
+This [directory](https://github.com/SimoneZasso/Loneliness-PISA2022/tree/main/Function_R) contains R scripts and functions utilized within the project. It encompasses modularized functions for tasks such as data manipulation, model fitting, and result interpretation.
 
 ## Dataset
 
